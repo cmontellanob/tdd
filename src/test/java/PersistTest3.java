@@ -6,5 +6,6 @@ public class PersistTest3 {
     public void persistencestetforNumer657() {
         int result= Persist.persistence(657);
         assertEquals(2,result);
+
     }
 }
